@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mrguru2024
+- 👋 Hi, I’m Anthony Feaster
 - 👀 I’m interested in Full Stack Development, Locksmithing and electronic repairs
-- 🌱 I’m currently learning Full Stack Dev
+- 🌱 I’m a Full Stack Developer
 - 💞️ I’m looking to collaborate on any projets contributing to society or specifics needs.
 - 📫 How to reach me: 5epmgllc@gmail.com
 - 😄 Pronouns: MR
